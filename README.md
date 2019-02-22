@@ -31,7 +31,7 @@
 简所谓推流，就是将我们已经编码好的音视频数据发往视频流服务器中，一般常用的是使用rtmp推流，可以使用第三方库`librtmp-iOS`进行推流，`librtmp`封装了一些核心的api供使用者调用，如果觉得麻烦，可以使用现成的ios视频推流sdk，也是基于`rtmp`的，[戳这里](https://github.com/runner365/LiveVideoCoreSDK)
 
 
-[音视频采集与编码](https://github.com/PlatoJobs/PJAVedio_Editing/blob/master/PJAVedio_Gather/2301467-fbf45e58e543727c.png)
+![音视频采集与编码](https://github.com/PlatoJobs/PJAVedio_Editing/blob/master/PJAVedio_Gather/2301467-fbf45e58e543727c.png)
 
 
 
